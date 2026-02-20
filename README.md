@@ -3,6 +3,9 @@
 A modern coaching institute website created using HTML and CSS.  
 This project includes a homepage, courses page, and admission form with a clean and professional design.
 
+## Site is Live on:
+https://atharva9191.github.io/coaching-institute-website/
+
 ## Features
 
 - Modern responsive layout
