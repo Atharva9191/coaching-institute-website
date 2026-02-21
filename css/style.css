@@ -91,7 +91,7 @@ img{
     100%{transform: translateY(0);}    
 }
 
-.startBtn{
+.btn{
     text-decoration: none;
     padding: 14px 30px;
     background: linear-gradient(90deg, var(--accent), #f97316);
@@ -101,7 +101,7 @@ img{
     transition: 0.4s;
 }
 
-.startBtn:hover{
+.btn:hover{
     box-shadow: 0 0 15px;
 }
 
